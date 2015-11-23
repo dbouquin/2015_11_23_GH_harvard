@@ -1,3 +1,7 @@
 Hello!
 Thanks for hosting a github workshop!
 
+<<<<<<< HEAD
+=======
+new line
+>>>>>>> 38c5c77edc01f49eda3c5de4f025420cfba2cfbc
